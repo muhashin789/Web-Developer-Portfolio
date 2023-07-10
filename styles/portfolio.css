@@ -118,3 +118,7 @@ main{
 .info-description{
     font-weight: 700;
 }
+/* what i do section css started */
+#what-i-do-description{
+    padding: 30px 150px;
+}
